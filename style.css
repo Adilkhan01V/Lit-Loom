@@ -1,7 +1,7 @@
 body {
-  background-image: url("/assets/bg-book2.jpg");
+  background-image: url("assets/join-bg.jpg");
   background-color: #017199;
-  height: 100%; 
+  height: 100vh; 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
